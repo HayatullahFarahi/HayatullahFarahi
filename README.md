@@ -44,7 +44,7 @@ I'm on a mission to craft amazing digital experiences and bring ideas to life th
 
 📈 **My GitHub Stats**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HayatullahFarahi&show_icons=true)
 
 
 
