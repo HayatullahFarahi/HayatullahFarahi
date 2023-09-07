@@ -35,17 +35,12 @@
 ![Heroku](https://img.icons8.com/color/48/000000/heroku.png)
 ![Redis](https://img.icons8.com/color/48/000000/redis.png)
 ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
-![Java](https://img.icons8.com/color/48/000000/java-duke.png)
 ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
-![IIS](https://img.icons8.com/color/48/000000/iis.png)
 ![Nginx](https://img.icons8.com/color/48/000000/nginx.png)
 ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
 ![Postman](https://img.icons8.com/color/48/000000/postman.png)
 ![Python](https://img.icons8.com/color/48/000000/python.png)
 ![Redux](https://img.icons8.com/color/48/000000/redux.png)
-![SQLite](https://img.icons8.com/color/48/000000/sqlite.png)
-![Cosmos DB](https://img.icons8.com/color/48/000000/cosmos-db.png)
-![DynamoDB](https://img.icons8.com/color/48/000000/dynamodb.png)
 
 
 
