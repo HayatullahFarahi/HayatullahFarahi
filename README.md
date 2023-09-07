@@ -35,14 +35,11 @@ I'm on a mission to craft amazing digital experiences and bring ideas to life th
 ![React](https://img.icons8.com/?size=48&id=t4YbEbA834uH&format=png) ![Flutter](https://img.icons8.com/?size=1x&id=7I3BjCqe9rjG&format=png) ![React Native](https://img.icons8.com/?size=1x&id=123603&format=png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) ![Python](https://img.icons8.com/color/48/000000/python.png) ![Django](https://img.icons8.com/color/48/000000/django.png) ![ASP.NET](https://img.icons8.com/color/48/000000/asp.png) ![Git](https://img.icons8.com/color/48/000000/git.png) ![Docker](https://img.icons8.com/color/48/000000/docker.png) ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)
 ![Oracle](https://img.icons8.com/color/48/000000/oracle-logo.png) ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) ![SQL Server](https://img.icons8.com/color/48/000000/microsoft-sql-server.png) ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) ![PostgreSQL](https://img.icons8.com/?size=1x&id=38561&format=png) ![Azure](https://img.icons8.com/?size=1x&id=VLKafOkk3sBX&format=png)
 
-🚧 **My Todoist Stats:**
+📊 **GitHub Activity**
 
-🏆 ![Karma Points](https://img.shields.io/badge/Karma-8004-blue)
-🌸 ![Completed Tasks Today](https://img.shields.io/badge/Completed%20Today-0-green)
-✅ ![Completed Tasks So Far](https://img.shields.io/badge/Completed%20So%20Far-673-brightgreen)
-⏳ ![Longest Streak](https://img.shields.io/badge/Longest%20Streak-10%20days-orange)
+![GitHub Activity Graph](https://github-readme-streak-stats.herokuapp.com/?user=HayatullahFarahi)
 
-📈 **My GitHub Stats**
+📊 **GitHub Activity**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HayatullahFarahi&show_icons=true)
 
