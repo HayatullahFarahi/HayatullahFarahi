@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://media.licdn.com/dms/image/D4D03AQGZMictqzvhew/profile-displayphoto-shrink_200_200/0/1685639869032?e=1699488000&v=beta&t=gUxDZOXJt_RigeTv5B-_6YmuQGfkLV8_Dq4TN9TH5uE" alt="Hayatullah Farahi" width="300" height="300" />
-</div>
-
 # Hello, I'm Hayatullah Farahi! 👋
 
 🌟 Passionate Full-Stack Developer | Toronto, Canada 🏡 | [Portfolio](https://hfarahi.netlify.app/)
@@ -27,14 +23,11 @@ I'm on a mission to craft amazing digital experiences and bring ideas to life th
 - ...and more! Explore them on [my portfolio](https://hfarahi.netlify.app/)
 
 ## Skills Snapshot
-- Front-end: React, React Native, JavaScript, HTML, CSS
-- Back-end: Node.js, Django, Django Rest-Framework, ASP.NET CORE
-- Databases: Oracle, MySQL, SQL Server, MongoDB, PostgreSQL
-- DevOps: Git, Docker
-- Cloud: Azure, AWS
-- Tools: MS Office Suite, Adobe Photoshop
-
-## Fun Fact
-I have a love-hate relationship with procrastination. But when I'm in the zone, I'm unstoppable! 😄
+- ![React](https://your-repo-url/assets/react.png) ![React Native](https://your-repo-url/assets/reactnative.png) ![JavaScript](https://your-repo-url/assets/javascript.png) ![HTML](https://your-repo-url/assets/html.png) ![CSS](https://your-repo-url/assets/css.png)
+- ![Node.js](https://your-repo-url/assets/nodejs.png) ![Python](https://your-repo-url/assets/python.png) ![Django](https://your-repo-url/assets/django.png) ![ASP.NET](https://your-repo-url/assets/aspnet.png)
+- ![Oracle](https://your-repo-url/assets/oracle.png) ![MySQL](https://your-repo-url/assets/mysql.png) ![SQL Server](https://your-repo-url/assets/sqlserver.png) ![MongoDB](https://your-repo-url/assets/mongodb.png) ![PostgreSQL](https://your-repo-url/assets/postgresql.png)
+- ![Git](https://your-repo-url/assets/git.png) ![Docker](https://your-repo-url/assets/docker.png)
+- ![Azure](https://your-repo-url/assets/azure.png) ![AWS](https://your-repo-url/assets/aws.png)
+- ![MS Office](https://your-repo-url/assets/msoffice.png) ![Photoshop](https://your-repo-url/assets/photoshop.png)
 
 Thanks for visiting my GitHub. Let's build something amazing together! 🚀
