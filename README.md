@@ -4,7 +4,7 @@
 
 # Hello, I'm Hayatullah Farahi! 👋
 
-🌟 Passionate Full-Stack Developer | Toronto, Canada 🏡 | [Website](https://hfarahi.netlify.app/)
+🌟 Passionate Full-Stack Developer | Toronto, Canada 🏡 | [Portfolio](https://hfarahi.netlify.app/)
 
 ## About Me
 I'm on a mission to craft amazing digital experiences and bring ideas to life through code. With over 5 years of cross-platform mobile app and full-stack web development experience, I've had the privilege of working in professional organizations across three countries.
