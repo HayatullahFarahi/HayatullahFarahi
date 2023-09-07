@@ -28,12 +28,13 @@ I'm on a mission to craft amazing digital experiences and bring ideas to life th
 ...and more! Explore them on [WebSite](https://hfarahi.netlify.app/).
 
 
-## Skills Snapshot
-- ![React](https://your-repo-url/assets/react.png) ![React Native](https://your-repo-url/assets/reactnative.png) ![JavaScript](https://your-repo-url/assets/javascript.png) ![HTML](https://your-repo-url/assets/html.png) ![CSS](https://your-repo-url/assets/css.png)
-- ![Node.js](https://your-repo-url/assets/nodejs.png) ![Python](https://your-repo-url/assets/python.png) ![Django](https://your-repo-url/assets/django.png) ![ASP.NET](https://your-repo-url/assets/aspnet.png)
-- ![Oracle](https://your-repo-url/assets/oracle.png) ![MySQL](https://your-repo-url/assets/mysql.png) ![SQL Server](https://your-repo-url/assets/sqlserver.png) ![MongoDB](https://your-repo-url/assets/mongodb.png) ![PostgreSQL](https://your-repo-url/assets/postgresql.png)
-- ![Git](https://your-repo-url/assets/git.png) ![Docker](https://your-repo-url/assets/docker.png)
-- ![Azure](https://your-repo-url/assets/azure.png) ![AWS](https://your-repo-url/assets/aws.png)
+## Skills
+- ![React](https://img.icons8.com/color/48/000000/react-native.png) ![React Native](https://img.icons8.com/color/48/000000/react-native.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png)
+- ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) ![Python](https://img.icons8.com/color/48/000000/python.png) ![Django](https://img.icons8.com/color/48/000000/django.png) ![ASP.NET](https://img.icons8.com/color/48/000000/asp.png)
+- ![Oracle](https://img.icons8.com/color/48/000000/oracle-logo.png) ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) ![SQL Server](https://img.icons8.com/color/48/000000/microsoft-sql-server.png) ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) ![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png)
+- ![Git](https://img.icons8.com/color/48/000000/git.png) ![Docker](https://img.icons8.com/color/48/000000/docker.png)
+- ![Azure](https://img.icons8.com/color/48/000000/microsoft-azure.png) ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)
+
 
 
 Thanks for visiting my GitHub. Let's build something amazing together! 🚀
