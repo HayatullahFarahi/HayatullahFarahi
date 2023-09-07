@@ -5,10 +5,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HayatullahFarahi&color=green)
 
-
-## About Me
-I'm on a mission to craft amazing digital experiences and bring ideas to life through code. With over 5 years of cross-platform mobile app and full-stack web development experience, I've had the privilege of working in professional organizations across three countries.
-
 ## What I'm Up To
 - 🛠️ Currently crafting a Hospital Management Information System (MIS)
 - 🌱 Exploring CosmosDB and DynamoDB
