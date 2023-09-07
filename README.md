@@ -30,7 +30,6 @@
 
 ![React](https://img.icons8.com/?size=48&id=t4YbEbA834uH&format=png) ![Flutter](https://img.icons8.com/?size=1x&id=7I3BjCqe9rjG&format=png) ![React Native](https://img.icons8.com/?size=1x&id=123603&format=png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) ![Python](https://img.icons8.com/color/48/000000/python.png) ![Django](https://img.icons8.com/color/48/000000/django.png) ![ASP.NET](https://img.icons8.com/color/48/000000/asp.png) ![Git](https://img.icons8.com/color/48/000000/git.png) ![Docker](https://img.icons8.com/color/48/000000/docker.png) ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)
 ![Oracle](https://img.icons8.com/color/48/000000/oracle-logo.png) ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) ![SQL Server](https://img.icons8.com/color/48/000000/microsoft-sql-server.png) ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) ![PostgreSQL](https://img.icons8.com/?size=1x&id=38561&format=png) ![Azure](https://img.icons8.com/?size=1x&id=VLKafOkk3sBX&format=png)
-
 ![Linux](https://img.icons8.com/color/48/000000/linux.png)
 ![Heroku](https://img.icons8.com/color/48/000000/heroku.png)
 ![Redis](https://img.icons8.com/color/48/000000/redis.png)
@@ -41,10 +40,6 @@
 ![Postman](https://img.icons8.com/color/48/000000/postman.png)
 ![Python](https://img.icons8.com/color/48/000000/python.png)
 ![Redux](https://img.icons8.com/color/48/000000/redux.png)
-
-
-
-
  
 
 ![GitHub Activity Graph](https://github-readme-streak-stats.herokuapp.com/?user=HayatullahFarahi)
