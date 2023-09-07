@@ -33,6 +33,6 @@ I'm on a mission to craft amazing digital experiences and bring ideas to life th
 - ![Oracle](https://your-repo-url/assets/oracle.png) ![MySQL](https://your-repo-url/assets/mysql.png) ![SQL Server](https://your-repo-url/assets/sqlserver.png) ![MongoDB](https://your-repo-url/assets/mongodb.png) ![PostgreSQL](https://your-repo-url/assets/postgresql.png)
 - ![Git](https://your-repo-url/assets/git.png) ![Docker](https://your-repo-url/assets/docker.png)
 - ![Azure](https://your-repo-url/assets/azure.png) ![AWS](https://your-repo-url/assets/aws.png)
-- ![MS Office](https://your-repo-url/assets/msoffice.png) ![Photoshop](https://your-repo-url/assets/photoshop.png)
+
 
 Thanks for visiting my GitHub. Let's build something amazing together! 🚀
