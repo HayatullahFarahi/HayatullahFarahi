@@ -37,7 +37,7 @@
 ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
 ![Nginx](https://img.icons8.com/color/48/000000/nginx.png)
 ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
-![Postman](https://img.icons8.com/color/48/000000/postman.png)
+![Postman](https://cdn.iconscout.com/icon/free/png-64/free-postman-3521648-2945092.png?f=avif)
 ![Python](https://img.icons8.com/color/48/000000/python.png)
 ![Redux](https://img.icons8.com/color/48/000000/redux.png)
  
