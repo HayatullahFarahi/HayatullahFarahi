@@ -24,7 +24,8 @@ I'm on a mission to craft amazing digital experiences and bring ideas to life th
 - **Payment Hub** 💳 - Django, React JS, SQL Server
 - **PolyStar HDPE Extrusion** 🌟 - Django, React JS, PostgreSQL
 - **Apollo Steel HRMIS and Slitting Program** 🚀 - Django, React JS, PostgreSQL
-...and more! Explore them on [my portfolio](https://hfarahi.netlify.app/).
+
+...and more! Explore them on [WebSite](https://hfarahi.netlify.app/).
 
 
 ## Skills Snapshot
