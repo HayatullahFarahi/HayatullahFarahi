@@ -1,4 +1,4 @@
-# Hello, I'm Hayatullah Farahi! 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+Hayatullah+Farahi!+👋)](https://git.io/typing-svg)
 
 🌟 Passionate Full-Stack Developer | Toronto, Canada 🏡 | [Portfolio](https://hfarahi.netlify.app/)
 
@@ -38,10 +38,7 @@ I'm on a mission to craft amazing digital experiences and bring ideas to life th
  
 
 ![GitHub Activity Graph](https://github-readme-streak-stats.herokuapp.com/?user=HayatullahFarahi)
-
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HayatullahFarahi&layout=compact)
-
 
 ![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HayatullahFarahi&theme=github_dark)
 
