@@ -29,9 +29,11 @@ I'm on a mission to craft amazing digital experiences and bring ideas to life th
 
 ## Skills  
 
+## Skills  
+
 ![React](https://img.icons8.com/color/48/000000/react-native.png) ![React Native](https://img.icons8.com/color/48/000000/react-native.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) ![Python](https://img.icons8.com/color/48/000000/python.png) ![Django](https://img.icons8.com/color/48/000000/django.png) ![ASP.NET](https://img.icons8.com/color/48/000000/asp.png) ![Git](https://img.icons8.com/color/48/000000/git.png) ![Docker](https://img.icons8.com/color/48/000000/docker.png) ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)
 
-![Oracle](https://img.icons8.com/color/48/000000/oracle-logo.png) ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) ![SQL Server](https://img.icons8.com/color/48/000000/microsoft-sql-server.png) ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) ![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png) ![Azure](https://img.icons8.com/color/48/000000/microsoft-azure.png)
+![Oracle](https://img.icons8.com/color/48/000000/oracle-logo.png) ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) ![SQL Server](https://img.icons8.com/color/48/000000/microsoft-sql-server.png) ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) ![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png) ![Azure](https://github.com/HayatullahFarahi/HayatullahFarahi/assets/54413340/c2c2eec2-a69a-4f77-aae5-90bb098354c4)
 
 
 
