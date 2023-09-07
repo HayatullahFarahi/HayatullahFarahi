@@ -39,5 +39,12 @@ I'm on a mission to craft amazing digital experiences and bring ideas to life th
 
 ![GitHub Activity Graph](https://github-readme-streak-stats.herokuapp.com/?user=HayatullahFarahi)
 
+📊 **GitHub Activity**
+
+[![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=HayatullahFarahi)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+Click on the graph to see more details.
+
+
 
 Thanks for visiting my GitHub. Let's build something amazing together! 🚀
