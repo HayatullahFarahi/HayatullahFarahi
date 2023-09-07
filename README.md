@@ -41,7 +41,8 @@ I'm on a mission to craft amazing digital experiences and bring ideas to life th
 
 📊 **GitHub Activity**
 
-![GitHub Contributions](https://github.com/HayatullahFarahi/HayatullahFarahi/raw/master/profile-summary-card-output/github-contribution-grid.svg)
+![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HayatullahFarahi&theme=github_dark)
+
 
 
 
