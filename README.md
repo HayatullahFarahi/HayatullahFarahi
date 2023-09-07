@@ -41,9 +41,7 @@ I'm on a mission to craft amazing digital experiences and bring ideas to life th
 
 📊 **GitHub Activity**
 
-[![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=HayatullahFarahi)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-Click on the graph to see more details.
+![GitHub Contributions](https://github.com/HayatullahFarahi/HayatullahFarahi/raw/master/profile-summary-card-output/github-contribution-grid.svg)
 
 
 
