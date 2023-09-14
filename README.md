@@ -43,9 +43,7 @@
  
 
 ![GitHub Activity Graph](https://github-readme-streak-stats.herokuapp.com/?user=HayatullahFarahi)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HayatullahFarahi&layout=compact)
-
+ 
 ![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HayatullahFarahi&theme=github_dark)
 
 
