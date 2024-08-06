@@ -13,7 +13,6 @@
 - 🎨 Creating delightful user interfaces and experiences
 
 ## Get In Touch
-📫 Email: [hayatullah.farahi@gmail.com](mailto:hayatullah.farahi@gmail.com)  
 🌐 Portfolio: [hfarahi.netlify.app](https://hfarahi.netlify.app/)  
 👔 LinkedIn: [Connect with me](https://www.linkedin.com/in/hayatullah-farahi/)
 
