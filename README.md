@@ -1,11 +1,11 @@
 <!-- ============================== HEADER ============================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2b3a67,100:70a5fd&height=220&section=header&text=Hayatullah%20Farahi&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Senior%20Full-Stack%20Developer%20%E2%80%A2%20AI-Assisted%20Engineering&descSize=18&descAlignY=58&animation=fadeIn" alt="Hayatullah Farahi" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2b3a67,100:70a5fd&height=220&section=header&text=Hayatullah%20Farahi&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20Building%20with%20AI&descSize=18&descAlignY=58&animation=fadeIn" alt="Hayatullah Farahi" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://hfarahi.netlify.app/">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=70A5FD&center=true&vCenter=true&width=720&height=45&lines=8%2B+years+shipping+production+systems;Python+%E2%80%A2+TypeScript+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+Azure;Building+AI+agents+for+engineering+teams;From+requirements+to+production%2C+end-to-end" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=70A5FD&center=true&vCenter=true&width=720&height=45&lines=Hey+there%2C+I'm+Hayatullah+%F0%9F%91%8B;I+build+for+web%2C+mobile+%26+cloud;Lately%3A+AI+agents+that+help+devs+ship+faster;Always+happy+to+talk+code+%E2%98%95" alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,39 +19,43 @@
 <br />
 
 <!-- ============================== ABOUT ============================== -->
-## 👨‍💻 About Me
+## 👋 Hey there!
 
 <table>
 <tr>
 <td width="55%" valign="top">
 
-Full-Stack Software Engineer with **8+ years** of experience building scalable production systems with **Python, Django, Node.js, TypeScript, React, Azure and AWS**, owning work end-to-end from requirements and architecture through delivery and production support. These days I specialize in **AI-assisted software development and workflow automation**, building AI agents that streamline engineering workflows and help business analysts produce standardized, high-quality user stories.
+I'm a full-stack developer in Toronto who has been building and shipping software for **8+ years** — web apps, mobile apps, APIs and the cloud plumbing that holds them together. These days I'm most excited about **AI-assisted development**: building agents that take the busywork off engineers' plates so we can spend more time on the fun parts.
 
-- 🤖 Building **custom AI agents** for engineering & BA teams
-- 🧠 Designing **domain knowledge systems** that give Copilot agents real business context
-- 📄 Shipping **accessible (WCAG/AODA) document generation** & e-signature workflows
-- 🏗️ Architecting **multi-repo, multi-team** platforms across frontend, backend & rules engines
+- 🔭 Currently building **AI agents** that automate dev workflows and write better user stories
+- 🌱 Going deep on **agentic workflows**, **Claude Code** and **agent skills**
+- 🧩 Day-to-day in **React, TypeScript, Node.js** and **Spring Boot**
+- 💬 Ask me about **full-stack architecture**, **mobile apps** or **wiring AI into dev teams**
+- ⚡ Fun fact: I've shipped software with teams across **4 countries** 🌍
 
 </td>
 <td width="45%" valign="top">
 
 ```ts
 const hayatullah = {
-  role: "Senior Full-Stack Developer",
-  experience: "8+ years",
-  basedIn: "Toronto, Canada 🇨🇦",
-  focus: [
-    "AI-assisted development",
+  location: "Toronto, Canada",
+  role: "Full-Stack Developer",
+  shippingSince: 2017,
+  currentlyBuilding: "AI agents for dev teams",
+  learning: [
     "Agentic workflows",
-    "Cloud-native systems",
+    "Claude Code",
+    "Agent skills",
   ],
-  stack: {
-    frontend: ["React", "TypeScript", "React Native", "Flutter"],
-    backend:  ["Node.js", "Django", "Spring Boot", ".NET"],
-    data:     ["SQL Server", "PostgreSQL", "MongoDB", "PySpark"],
-    cloud:    ["Azure", "AWS", "Docker", "Kubernetes"],
-  },
-  certified: ["Azure AZ-900", "Anthropic · Claude"],
+  favoriteStack: [
+    "React", "TypeScript", "Node.js",
+    "Django", "Azure",
+  ],
+  askMeAbout: [
+    "Full-stack architecture",
+    "React Native & Flutter",
+    "AI-assisted development",
+  ],
 };
 ```
 
@@ -60,7 +64,7 @@ const hayatullah = {
 </table>
 
 <!-- ============================== TECH STACK ============================== -->
-## 🛠️ Tech Stack
+## 🧰 Tech I Work With
 
 <table align="center">
   <tr>
@@ -97,78 +101,48 @@ const hayatullah = {
   </tr>
 </table>
 
-<!-- ============================== EXPERIENCE ============================== -->
-## 💼 Experience
+<!-- ============================== JOURNEY ============================== -->
+## 🗺️ My Journey So Far
 
-<details open>
-<summary><b>🚀 Senior Full-Stack Developer</b> · TCS (Financial Services) · Toronto &nbsp;—&nbsp; <i>Nov 2023 – Present</i></summary>
-<br />
-
-**Online transaction platform** — React/TypeScript · Node.js · Spring Boot · Java · REST APIs · AI automation
-
-- Own end-to-end delivery of complex financial transaction flows — from business requirements and API contracts to multi-step UI workflows and backend validation.
-- Engineered the **document generation workflow** with WCAG/AODA compliance, form population and validation, eliminating manual PDF handling and enabling straight-through processing.
-- Integrated **DocuSign e-signature** workflows for fully digital, paperless transactions.
-- Built **custom AI agents** for engineers and business analysts, automating development tasks, requirements analysis, story creation and Confluence organization.
-- Established an **automated domain knowledge system** that keeps GitHub Copilot agents grounded in application and business context.
-- Implemented business rules with **Spring Boot + DMN** for eligibility, transfers and workflow processing.
-
-**Technical Lead — Cloud & Data Platforms** — Node.js · GraphQL · Azure · PySpark · Docker · Jenkins
-
-- Led technical delivery from requirements and design through architecture, implementation and production support.
-- Designed REST and GraphQL APIs on Node.js microservices integrated with Azure SQL, Storage and Key Vault.
-- Built **PySpark data pipelines** for large-scale processing and containerized CI/CD with Jenkins & Docker.
-
-</details>
-
-<details>
-<summary><b>🛰️ Software Engineer</b> · IPMC · Remote &nbsp;—&nbsp; <i>Sep 2021 – Oct 2023</i></summary>
-<br />
-
-- Designed and delivered Node.js REST API microservices for **PocketPos**, **Attendance & Timesheet** and a **Farmer Application**.
-- Led a team of React and React Native developers, delivering a major platform on time and within budget.
-- Architected a full-stack **Meeting Room Management** system with Django, React and PostgreSQL.
-- Built resilient **online-first mobile apps** handling intermittent connectivity and synchronization.
-- Championed unit/integration testing, code reviews and maintainable architecture.
-
-</details>
-
-<details>
-<summary><b>🏦 Software Developer</b> · Ministry of Finance · Kabul &nbsp;—&nbsp; <i>Jan 2021 – Aug 2021</i></summary>
-<br />
-
-- Architected **Payment Hub V3**, a high-volume payment platform with reliable processing and complete audit trails.
-- Designed REST integrations between financial systems, reducing manual reconciliation.
-- Optimized **SQL Server** data architecture for high-performance transaction processing and reporting.
-- Built a **cheque tracking system** with Flutter and Python automation for real-time logistics visibility.
-
-</details>
-
-<details>
-<summary><b>📱 Mobile Application Developer</b> · Haztech · Goa, India &nbsp;—&nbsp; <i>Jul 2017 – Dec 2020</i></summary>
-<br />
-
-- Delivered cross-platform mobile apps with **Flutter** and **React Native**, backed by Node.js services on **AWS**.
-- Built REST APIs and backend services on cloud-hosted databases for production mobile applications.
-- Designed responsive UIs and optimized performance through testing and iterative development.
-
-</details>
+<table>
+  <tr>
+    <td width="25%" align="center" valign="top">
+      <h3>📱</h3>
+      <b>2017 · Goa, India</b><br />
+      <sub>Fell in love with building mobile apps in Flutter & React Native</sub>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <h3>🏦</h3>
+      <b>2021 · Kabul</b><br />
+      <sub>Built payment platforms that move money for real</sub>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <h3>🌍</h3>
+      <b>2021 · Remote</b><br />
+      <sub>Led React & React Native devs shipping POS and timesheet apps</sub>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <h3>🍁</h3>
+      <b>2023 · Toronto</b><br />
+      <sub>Full-stack on fintech platforms, and teaching AI agents to help</sub>
+    </td>
+  </tr>
+</table>
 
 <!-- ============================== PROJECTS ============================== -->
-## 🌟 Featured Work
+## 🚀 Things I've Built
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 AI Engineering Agents</h3>
-      <p>Custom AI agents that automate day-to-day engineering tasks and help business analysts generate standardized user stories — backed by a self-maintaining domain knowledge base.</p>
+      <h3>🤖 AI Dev Agents</h3>
+      <p>Agents that handle the repetitive parts of engineering and turn rough requirements into clean user stories — with a knowledge base that keeps itself up to date.</p>
       <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
       <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code" />
-      <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" alt="Confluence" />
     </td>
     <td width="50%" valign="top">
-      <h3>📄 Document Generation & E-Sign</h3>
-      <p>Automated, accessible (WCAG/AODA) financial document generation with form population, validation and DocuSign e-signature — enabling straight-through processing.</p>
+      <h3>📄 Smart Docs & E-Sign</h3>
+      <p>Accessible documents that fill, validate and get signed on their own. No more passing PDFs around by hand.</p>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
       <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
@@ -176,30 +150,30 @@ const hayatullah = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>💳 Payment Hub V3</h3>
-      <p>High-volume financial payment platform with reliable transaction processing, complete audit trails and automated system-to-system data exchange.</p>
+      <h3>💳 Payment Hub</h3>
+      <p>A payments platform built for high volume, with a full audit trail for every transaction.</p>
       <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
       <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square" alt="SQL Server" />
     </td>
     <td width="50%" valign="top">
       <h3>📱 PocketPos</h3>
-      <p>Mobile point-of-sale app built online-first to stay reliable on unstable networks, powered by Node.js REST microservices.</p>
+      <p>A pocket-sized point of sale that keeps working even when the network doesn't.</p>
       <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
       <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📅 Meeting Room Management</h3>
-      <p>Full-stack booking and room management system — system design, database and UI owned end-to-end.</p>
+      <h3>📅 Meeting Room Booking</h3>
+      <p>Book a room, skip the double-booking drama. Designed and built end-to-end.</p>
       <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
     </td>
     <td width="50%" valign="top">
       <h3>🚖 MyTaxi</h3>
-      <p>Cross-platform ride-hailing app with a Node.js backend and MySQL data layer.</p>
+      <p>A cross-platform ride-hailing app, from the map screen down to the database.</p>
       <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
       <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
@@ -207,37 +181,10 @@ const hayatullah = {
   </tr>
 </table>
 
-<p align="center"><a href="https://hfarahi.netlify.app/"><b>➜ See more on my portfolio</b></a></p>
-
-<!-- ============================== CERTS & AWARDS ============================== -->
-## 🏆 Certifications & Awards
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>📜 Certifications</h4>
-      <ul>
-        <li><b>Microsoft Azure Fundamentals</b> (AZ-900)</li>
-        <li><b>Anthropic</b> — Claude Code in Action</li>
-        <li><b>Anthropic</b> — Agent Skills</li>
-        <li><b>Anthropic</b> — Build with Claude API <i>(2026)</i></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🥇 Awards</h4>
-      <ul>
-        <li><b>Winner</b>, Programming Contest among 23 colleges in South India — KLE Society University</li>
-        <li><b>Certificates of Merit & Academic Excellence</b> — DM's College, Goa University</li>
-        <li><b>Certificate of Academic Excellence</b> — USAID, Kabul University</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-🎓 **Bachelor of Computer Applications** — Goa University, India
+<p align="center"><a href="https://hfarahi.netlify.app/"><b>➜ More on my portfolio</b></a></p>
 
 <!-- ============================== STATS ============================== -->
-## 📊 GitHub Stats
+## 📈 My GitHub Activity
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HayatullahFarahi&theme=tokyonight" alt="Profile details" width="100%" />
@@ -254,7 +201,7 @@ const hayatullah = {
 
 <!-- ============================== FOOTER ============================== -->
 <p align="center">
-  <i>Thanks for stopping by — let's build something amazing together! 🚀</i>
+  <i>Thanks for dropping by! If something here sparks an idea, say hi on <a href="https://www.linkedin.com/in/hayatullahfarahi/">LinkedIn</a> — I'm always up for a good chat about code. 🚀</i>
 </p>
 
 <p align="center">
