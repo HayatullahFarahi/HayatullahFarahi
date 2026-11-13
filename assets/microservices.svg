@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="152" height="48" viewBox="0 0 152 48" fill="none">
+  <rect width="152" height="48" rx="11.25" fill="#242938"/>
+  <rect x="12" y="12" width="10.5" height="10.5" rx="2.5" fill="#70A5FD"/>
+  <rect x="25.5" y="12" width="10.5" height="10.5" rx="2.5" fill="#BF91F3"/>
+  <rect x="12" y="25.5" width="10.5" height="10.5" rx="2.5" fill="#38BDAE"/>
+  <rect x="25.5" y="25.5" width="10.5" height="10.5" rx="2.5" fill="#F7768E"/>
+  <text x="48" y="29" fill="#E6EDF3" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="14" font-weight="600">Microservices</text>
+</svg>

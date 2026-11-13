@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="48" viewBox="0 0 192 48" fill="none">
+  <rect width="192" height="48" rx="11.25" fill="#242938"/>
+  <g stroke="#565F89" stroke-width="1.8" stroke-linecap="round">
+    <path d="M24 24L13 14M24 24L35 14M24 24L13 34M24 24L35 34"/>
+    <path d="M13 14L35 14M13 34L35 34" stroke-dasharray="2 3"/>
+  </g>
+  <circle cx="13" cy="14" r="3.4" fill="#BF91F3"/>
+  <circle cx="35" cy="14" r="3.4" fill="#38BDAE"/>
+  <circle cx="13" cy="34" r="3.4" fill="#38BDAE"/>
+  <circle cx="35" cy="34" r="3.4" fill="#BF91F3"/>
+  <circle cx="24" cy="24" r="5" fill="#70A5FD"/>
+  <text x="48" y="29" fill="#E6EDF3" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="14" font-weight="600">Distributed Systems</text>
+</svg>

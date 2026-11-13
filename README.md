@@ -71,16 +71,16 @@ const hayatullah = {
     <td align="center"><b>APIs & Architecture</b></td>
     <td>
       <img src="https://skillicons.dev/icons?i=graphql,postman" alt="APIs" />
-      <img src="https://img.shields.io/badge/REST_APIs-1a1b27?style=flat-square" alt="REST APIs" />
-      <img src="https://img.shields.io/badge/Microservices-1a1b27?style=flat-square" alt="Microservices" />
-      <img src="https://img.shields.io/badge/Distributed_Systems-1a1b27?style=flat-square" alt="Distributed Systems" />
+      <img src="./assets/rest-apis.svg" height="48" alt="REST APIs" />
+      <img src="./assets/microservices.svg" height="48" alt="Microservices" />
+      <img src="./assets/distributed-systems.svg" height="48" alt="Distributed Systems" />
     </td>
   </tr>
   <tr>
     <td align="center"><b>Databases</b></td>
     <td>
       <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" alt="Databases" />
-      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square" alt="SQL Server" />
+      <img src="./assets/sql-server.svg" height="48" alt="SQL Server" />
     </td>
   </tr>
   <tr>
