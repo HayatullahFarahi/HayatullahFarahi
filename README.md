@@ -118,7 +118,7 @@ const hayatullah = {
     </td>
     <td width="25%" align="center" valign="top">
       <h3>🌍</h3>
-      <b>2021 · Remote</b><br />
+      <b>2021 · Accra</b><br />
       <sub>Led React & React Native devs shipping POS and timesheet apps</sub>
     </td>
     <td width="25%" align="center" valign="top">
