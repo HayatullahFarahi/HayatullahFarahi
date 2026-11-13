@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://orintech.ca"><img src="https://img.shields.io/badge/Orin_Technologies-1a1b27?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSI+PGNpcmNsZSBjeD0iMTYiIGN5PSIxNiIgcj0iMTAiIHN0cm9rZT0iIzVlZWFkNCIgc3Ryb2tlLXdpZHRoPSIzLjIiLz48ZWxsaXBzZSBjeD0iMTYiIGN5PSIxNiIgcng9IjE1IiByeT0iNS41IiB0cmFuc2Zvcm09InJvdGF0ZSgtMzAgMTYgMTYpIiBzdHJva2U9IiM1ZWVhZDQiIHN0cm9rZS13aWR0aD0iMS42IiBvcGFjaXR5PSIwLjciLz48Y2lyY2xlIGN4PSIyNi42IiBjeT0iOS44IiByPSIyLjgiIGZpbGw9IiNmZmZmZmYiLz48L3N2Zz4=" alt="Founder of Orin Technologies" /></a>
-  <a href="https://hfarahi.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Portfolio" /></a>
+  <a href="https://hfarahi.com/"><img src="https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/hayatullahfarahi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDEgMSAwLTQuMTI1IDIuMDYyIDIuMDYyIDAgMCAxIDAgNC4xMjV6TTcuMTE5IDIwLjQ1MkgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==" alt="LinkedIn" /></a>
   <img src="https://img.shields.io/badge/Toronto,_Canada-1a1b27?style=for-the-badge&logo=googlemaps&logoColor=EA4335" alt="Toronto, Canada" />
   <img src="https://komarev.com/ghpvc/?username=HayatullahFarahi&style=for-the-badge&color=70a5fd&label=Profile+Views" alt="Profile views" />
@@ -182,7 +182,7 @@ const hayatullah = {
   </tr>
 </table>
 
-<p align="center"><a href="https://hfarahi.netlify.app/"><b>➜ More on my portfolio</b></a></p>
+<p align="center"><a href="https://hfarahi.com/"><b>➜ More on my portfolio</b></a></p>
 
 <!-- ============================== STATS ============================== -->
 ## 📈 My GitHub Activity
