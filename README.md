@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://hfarahi.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/hayatullah-farahi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDEgMSAwLTQuMTI1IDIuMDYyIDIuMDYyIDAgMCAxIDAgNC4xMjV6TTcuMTE5IDIwLjQ1MkgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/hayatullahfarahi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDEgMSAwLTQuMTI1IDIuMDYyIDIuMDYyIDAgMCAxIDAgNC4xMjV6TTcuMTE5IDIwLjQ1MkgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==" alt="LinkedIn" /></a>
   <img src="https://img.shields.io/badge/Toronto,_Canada-1a1b27?style=for-the-badge&logo=googlemaps&logoColor=EA4335" alt="Toronto, Canada" />
   <img src="https://komarev.com/ghpvc/?username=HayatullahFarahi&style=for-the-badge&color=70a5fd&label=Profile+Views" alt="Profile views" />
 </p>
@@ -25,11 +25,7 @@
 <tr>
 <td width="55%" valign="top">
 
-Full-Stack Software Engineer with **8+ years** of experience building and delivering scalable production systems with **Python, Django, Node.js, TypeScript, React, Azure and AWS**.
-
-I own work end-to-end — from requirements and architecture through development, delivery and production support — across REST APIs, microservices, database architecture and cloud systems.
-
-These days I specialize in **AI-assisted software development and workflow automation**: building AI agents that automate engineering workflows and help business analysts generate standardized, high-quality user stories.
+Full-Stack Software Engineer with **8+ years** of experience building scalable production systems with **Python, Django, Node.js, TypeScript, React, Azure and AWS**, owning work end-to-end from requirements and architecture through delivery and production support. These days I specialize in **AI-assisted software development and workflow automation**, building AI agents that streamline engineering workflows and help business analysts produce standardized, high-quality user stories.
 
 - 🤖 Building **custom AI agents** for engineering & BA teams
 - 🧠 Designing **domain knowledge systems** that give Copilot agents real business context
